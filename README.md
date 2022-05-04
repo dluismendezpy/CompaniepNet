@@ -6,6 +6,7 @@ API using ASP.NET CORE 6.
 
 - .NET 6
 - Visual Studio o VS Code
+- Microsoft SQL Server
 
 ## Setup
 
@@ -13,6 +14,8 @@ API using ASP.NET CORE 6.
 
 `https://github.com/dluismendezpy/CompaniepNet.git`
 
+#### Create DB
+go to [query.sql](https://github.com/dluismendezpy/CompaniepNet/blob/main/README.md) and create DB and tables
 
 #### Run project
 - Using dotnet CLI
