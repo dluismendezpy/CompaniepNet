@@ -15,7 +15,7 @@ API using ASP.NET CORE 6.
 `https://github.com/dluismendezpy/CompaniepNet.git`
 
 #### Create DB
-go to [query.sql](https://github.com/dluismendezpy/CompaniepNet/blob/main/README.md) and create DB and tables
+go to [query.sql](https://github.com/dluismendezpy/CompaniepNet/blob/main/CompaniepNet/query.sql) and create DB and tables
 
 #### Run project
 - Using dotnet CLI
